@@ -42,3 +42,4 @@ The local admin account is `paulsobrio@gmail.com` / `sobrio123`.
 Staff and tenant registrations are pending until an administrator approves them. The administrator can also create accounts in **User accounts**. Tenant access needs a linked tenant profile and room assignment.
 
 See [backend/README.md](backend/README.md) for API and data notes. This project has been prepared for local XAMPP use; it is not configured for public production hosting.
+# Sobrio_Mini_Capstone_React
